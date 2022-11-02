@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FILE=README.md
 
 gitfunc() {
